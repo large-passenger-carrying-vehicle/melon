@@ -1,0 +1,15 @@
+name: melon
+version: 0.1.0
+
+authors:
+  - melonlub sakshamsarda53@gmail.com
+
+description:
+  A personal discord bot
+
+dependencies:
+  discordcr:
+    github: meew0/discordcr
+    branch: master
+    
+license: MIT
