@@ -1,3 +1,7 @@
 # melon
+A discord bot [WORK IN PROGRESS]
+## how to setup
 
-Details soon to be added
+# Contributors
+@melonlub
+@large-passenger-carrying-vehicle
